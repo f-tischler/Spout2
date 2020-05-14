@@ -43,6 +43,8 @@
 #include "spoutMemoryShare.h"
 #include <assert.h>
 
+using namespace std;
+
 spoutMemoryShare::spoutMemoryShare() {
 	senderMem = NULL; // Important because this is checked
 	m_Width = 0;

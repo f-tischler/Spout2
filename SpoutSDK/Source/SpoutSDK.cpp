@@ -136,6 +136,7 @@
 */
 #include "SpoutSDK.h"
 
+using namespace std;
 
 Spout::Spout()
 {

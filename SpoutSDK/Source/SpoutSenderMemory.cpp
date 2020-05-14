@@ -41,6 +41,8 @@
 #include "spoutSenderMemory.h"
 #include <assert.h>
 
+using namespace std;
+
 spoutSenderMemory::spoutSenderMemory() {
 
 }

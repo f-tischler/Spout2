@@ -199,6 +199,8 @@
 
 #include "spoutGLDXinterop.h"
 
+using namespace std;
+
 spoutGLDXinterop::spoutGLDXinterop() {
 
 	m_hWnd           = NULL;

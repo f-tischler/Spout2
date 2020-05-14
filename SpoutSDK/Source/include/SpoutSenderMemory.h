@@ -52,8 +52,6 @@
 // functions will finally go into SpoutGLDXinterop
 // #include "spoutGLDXinterop.h"
 
-using namespace std;
-
 class SPOUT_DLLEXP spoutSenderMemory {
 
 	public:

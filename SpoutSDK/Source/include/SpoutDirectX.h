@@ -44,8 +44,6 @@
 #pragma comment (lib, "d3d11.lib")
 #pragma comment (lib, "DXGI.lib")
 
-using namespace std;
-
 class SPOUT_DLLEXP spoutDirectX {
 
 	public:
